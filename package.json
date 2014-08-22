@@ -1,0 +1,26 @@
+{
+  "name": "families",
+  "version": "0.0.0",
+  "description": "fams",
+  "main": "families.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quelquecosa/nodeFamilies.git"
+  },
+  "author": "isaac malca",
+  "license": "Creative Commons",
+  "bugs": {
+    "url": "https://github.com/quelquecosa/nodeFamilies/issues"
+  },
+  "homepage": "https://github.com/quelquecosa/nodeFamilies",
+  "dependencies": {
+    "express": "~4.8.3",
+    "cors": "~2.4.1",
+    "mongodb": "~1.4.8",
+    "mongoskin": "~1.4.1",
+    "rsvp": "~3.0.13"
+  }
+}
